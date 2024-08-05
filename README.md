@@ -10,6 +10,6 @@ JEP 2.0 process
 
 JEP 1.0 process
 
-* JJEP 179: Document JDK API Support and Stability
-* JJEP 119: javax.lang.model Implementation Backed by Core Reflection
-* JJEP 117: Remove the Annotation-Processing Tool (apt)
+* JEP 179: Document JDK API Support and Stability
+* JEP 119: javax.lang.model Implementation Backed by Core Reflection
+* JEP 117: Remove the Annotation-Processing Tool (apt)
