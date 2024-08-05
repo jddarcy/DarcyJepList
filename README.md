@@ -3,7 +3,9 @@ List of JEPs where Joe Darcy was the owner
 
 JEP 2.0 process
 
+* JEP 369: Migrate to GitHub
 * JEP 306: Restore Always-Strict Floating-Point Semantics
+* JEP 296: Consolidate the JDK Forest into a Single Repository 
 * JEP 213: Milling Project Coin
 * JEP 212: Resolve Lint and Doclint Warnings
 * JEP 211: Elide Deprecation Warnings on Import Statements
